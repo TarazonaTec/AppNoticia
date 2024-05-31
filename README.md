@@ -1,4 +1,4 @@
-Aplicación de Noticias
+Aplicación de Noticias:
 La Aplicación de Noticias es una aplicación móvil desarrollada en Android Studio utilizando el lenguaje de programación Kotlin.
 Su objetivo principal es mostrar una lista de noticias en un RecyclerView, donde cada noticia contiene al menos un título y una descripción breve. 
 La aplicación sigue los principios de la arquitectura MVVM (Modelo-Vista-ViewModel) con Clean Architecture para garantizar una estructura modular y mantenible del código.
